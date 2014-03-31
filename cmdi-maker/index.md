@@ -1,5 +1,5 @@
 ---
-layout: scripts
+layout: cmdi-maker
 category : pages
 ---
 

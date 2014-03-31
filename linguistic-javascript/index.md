@@ -1,5 +1,5 @@
 ---
-layout: scripts
+layout: linguistic-javascriot
 category : pages
 ---
 
