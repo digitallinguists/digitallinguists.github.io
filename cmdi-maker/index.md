@@ -3,6 +3,6 @@ layout: scripts
 category : pages
 ---
 
-# The collection
+# The CMDI-Maker
 
-* [TreeGen](treegen.html): Generates a tree.
+http://class.uni-koeln.de/cmdi_maker/

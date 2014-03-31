@@ -3,6 +3,6 @@ layout: scripts
 category : pages
 ---
 
-# The collection
+# The code collection
 
 * [TreeGen](treegen.html): Generates a tree.

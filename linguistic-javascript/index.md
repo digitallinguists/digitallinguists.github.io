@@ -3,6 +3,6 @@ layout: scripts
 category : pages
 ---
 
-# The collection
+# JavaScript in Linguistics
 
-* [TreeGen](treegen.html): Generates a tree.
+A collection of JavaScript code and documentation for data management and analysis in linguistic research.
