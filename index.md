@@ -13,4 +13,4 @@ The following Github repositories a currently maintained at Digital Linguists:
 * [Linguistic JavaScript](linguistic-javascript/index.html): A collection of JavaScript code and documentation for data management and analysis in linguistic research.
 * [Scripts](/scripts/index.html): A collection of helper scripts in various programming languages, collected from research projects.
 
-If you have any source code or documentation that you want us to include in our collection please write a mail to [mailto:pbouda@cidles.eu](Peter Bouda <pbouda@cidles.eu>).
+If you have any source code or documentation that you want us to include in our collection please write a mail to [mailto:pbouda@cidles.eu](Peter Bouda &lt;pbouda@cidles.eu&gt;).
